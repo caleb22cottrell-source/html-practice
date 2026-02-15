@@ -1,3 +1,9 @@
+@media  (max-width: 600px) {
+  body {
+    font-size: 16px;
+  }
+}
+
 header {
   background-color: rgb(115, 165, 222);
   text-align: center;
@@ -69,7 +75,7 @@ img {
 }
 
 .basic, .complex {
-  background-color: gray;
+  background-color: rgb(70, 111, 149);
   flex-direction: column; 
   padding: 20px;
   margin: 10px;

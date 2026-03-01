@@ -29,8 +29,7 @@ h3 {
 }
 
 p {
-    color: white;
-    text-align: left;
+  color: white;
 }
 
 img {
@@ -83,4 +82,14 @@ img {
 
 h3 {
   text-align: center;
+}
+
+.btn-default {
+  background-color: darkcyan;
+}
+
+.list-group-item {
+  background-color: #050505;
+  color: white;
+  text-decoration: solid;
 }
